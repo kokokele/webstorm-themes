@@ -266,9 +266,6 @@
         <option name="BACKGROUND" value="b95e66" />
       </value>
     </option>
-    <option name="EL_BACKGROUND">
-      <value />
-    </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ff0000" />
@@ -360,9 +357,6 @@
         <option name="BACKGROUND" value="22252f" />
         <option name="EFFECT_COLOR" value="4a4848" />
       </value>
-    </option>
-    <option name="JSP_DIRECTIVE_BACKGROUND">
-      <value />
     </option>
     <option name="JSP_SCRIPTING_BACKGROUND">
       <value />

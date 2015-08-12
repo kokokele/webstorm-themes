@@ -97,21 +97,10 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.GLOBAL_VARIABLE">
-      <value>
-        <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="COFFEESCRIPT.JAVASCRIPT_CONTENT">
       <value>
         <option name="FOREGROUND" value="dee3ec" />
         <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.LOCAL_VARIABLE">
-      <value>
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="COFFEESCRIPT.PARAMETER">
@@ -659,9 +648,6 @@
         <option name="FOREGROUND" value="a7dbd8" />
       </value>
     </option>
-    <option name="HAML_FILTER_CONTENT">
-      <value />
-    </option>
     <option name="HAML_ID">
       <value>
         <option name="FOREGROUND" value="a7b3c2" />
@@ -686,11 +672,6 @@
     <option name="HAML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="f6624a" />
-      </value>
-    </option>
-    <option name="HAML_TEXT">
-      <value>
-        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="HAML_XHTML">
